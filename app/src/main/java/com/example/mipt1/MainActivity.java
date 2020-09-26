@@ -19,4 +19,8 @@ public class MainActivity extends AppCompatActivity {
     public void onBtnChangeTextClick(View view) {
         this.tvMain.setText("Gražios dienos");
     }
+
+    public void onBtnChangeTextColor(View view) {
+        this.tvMain.setTextColor(0xFFFF3300);
+    }
 }
