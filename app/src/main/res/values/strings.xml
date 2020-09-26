@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MIPT1</string>
     <string name="change_label_text">Change Label Text</string>
+    <string name="change_text_color">Change Text Color</string>
 </resources>
